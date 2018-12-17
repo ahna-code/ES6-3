@@ -20,7 +20,7 @@ body {
 	height: 650px;
 	border-radius: 35%;
 	box-shadow: 3px 3px 23px #222;
-
+        font-family: 'Roboto Slab', serif;
 }
 
 .button {
@@ -70,7 +70,7 @@ body {
 .results {
 	max-width: 320px;
 	width: 100%;
-	margin: 0 auto 70px auto;
+	margin: 0 auto 60px auto;
 	padding: 5px;
 	background-color: #e1e7ea;
 	border-radius: 9px;
