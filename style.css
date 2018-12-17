@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fots.googleapis.com/css?family=Roboto+Slab');
 
 body {
 	margin: 0;
@@ -70,11 +70,13 @@ body {
 .results {
 	max-width: 320px;
 	width: 100%;
-	margin: 0 auto 90px auto;
-	padding: 40px;
+	margin: 0 auto 70px auto;
+	padding: 5px;
 	background-color: #e1e7ea;
 	border-radius: 9px;
 	list-style-type: none;
+        overflow: auto;
+        height: 110px;
 	font-size: 30px;
 	border: solid 5px #fff;
 	font-size: 1rem;
